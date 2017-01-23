@@ -8,6 +8,7 @@ Email: Patrick_X99 [hotmail.com]
 #### Bachelor of Sciences:
 * Computer Science major, Compilers & Interpreters specialization
 * Graduated August 2003
+
 Significant Achievements:
 * Major G.P.A. 3.54
 * Teacher Assistant for multiple computer science classes
@@ -18,6 +19,7 @@ Significant Achievements:
 2012–2015	Meditech	(Atlanta, GA)	
 #### Programmer/Developer:
 * Joined a small, elite programming team for M-AT Homecare Interface
+
 Significant Achievements:
 * Programmed numerous new interfaces and GUI features/enhancements, including: Patient Scheduling Interface, Scanning & Archiving Interface, and Physician E-Sign for CTI/3rd-Party
 * Offered salary raise after 1-year review, despite standard company eligibility of 2 years
@@ -27,6 +29,7 @@ Significant Achievements:
 2006-2011	The Battle for Wesnoth	(wesnoth.org)
 #### Developer:
 * Volunteered as a C++ developer for this open source game
+
 Significant Achievements:
 * Programmed radical improvements to the GUI and the WML engine
 * WML is the language that allows authors to write game scenarios
@@ -36,6 +39,7 @@ Significant Achievements:
 2006-2011	Agentek, Inc.	(Alpharetta, GA)
 #### Support Engineer:
 * Hired for Level-2 Support as a full-time employee
+
 Significant Achievements:
 * Used Python and SQL on a daily basis to investigate issues
 * Proposed and maintained a knowledge base repository/wiki
@@ -52,6 +56,7 @@ Significant Achievements:
 #### Software Developer / Tester:
 * Hired as a full-time intern while attending Georgia Tech
 * Responsible for updates in the legacy registration code
+
 Significant Achievements:
 * Proposed and authored a Java servlet unit-testing framework with a team under my leadership
 * After we presented our work, the “Servwork” framework came to be used extensively by several FastAccess  Registration developers
@@ -65,6 +70,7 @@ Significant Achievements:
 #### Lab Technician:
 * Hired as a full-time co-op while attending Georgia Tech and later migrated to full-time employee
 * Entrusted with security and maintenance of the development labs
+
 Significant Achievements:
 * Proposed and authored a web-based system for lab equipment tracking
 * This web-based system helped an understaffed Development Lab Group to manage and prioritize the requests for a wide variety of resources
