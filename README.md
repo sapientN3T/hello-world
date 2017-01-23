@@ -2,8 +2,8 @@
 "for outstanding Software Development, Testing, and Support"
 
 Email: Patrick_X99 [hotmail.com]
-___
 
+___
 ## Education
 1997–2003	Georgia Tech	(Atlanta, GA)
 #### Bachelor of Sciences:
@@ -15,8 +15,8 @@ Significant Achievements:
 * Teacher Assistant for multiple computer science classes
 * Senior design project: FalconView Geospatial Modification
 * FalconView is a flight-path planning software available at falconview.org
-___
 
+___
 ## Work
 2012–2015	Meditech	(Atlanta, GA)	
 #### Programmer/Developer:
@@ -27,8 +27,8 @@ Significant Achievements:
 * Offered salary raise after 1-year review, despite standard company eligibility of 2 years
 * Discovered and solved numerous flaws during high-level code reviews with Systems Group
 * Became Coding Standards Group representative for the entire Atlanta office after only 2 years
-___
 
+___
 2006-2011	The Battle for Wesnoth	(wesnoth.org)
 #### Developer:
 * Volunteered as a C++ developer for this open source game
@@ -38,8 +38,8 @@ Significant Achievements:
 * WML is the language that allows authors to write game scenarios
 * Committed a total of 651 changes to the source code
 * Contributed a total of 27 person-months of code development
-___
 
+___
 2006-2011	Agentek, Inc.	(Alpharetta, GA)
 #### Support Engineer:
 * Hired for Level-2 Support as a full-time employee
@@ -48,16 +48,16 @@ Significant Achievements:
 * Used Python and SQL on a daily basis to investigate issues
 * Proposed and maintained a knowledge base repository/wiki
 * Authored a variety of Python tools designed to analyze trace files, upload statistics to a support database, and increase general productivity
-___
 
+___
 2004	John Coryat Systems	   (Memphis, TN)
 #### Java Consultant:
 * Hired as a freelance Java consultant for a 3-D wallpaper project
 Significant Achievements:
 * Successfully decompiled and documented legacy code
 * Analyzed the code structure and recommended modifications
-___
 
+___
 2000–2001	BellSouth.net Inc.	(Atlanta, GA)
 #### Software Developer / Tester:
 * Hired as a full-time intern while attending Georgia Tech
@@ -71,8 +71,8 @@ Significant Achievements:
 * Authored and documented an algorithm to parse complex registration logs
 * This tool was written in Java and became very popular with management for graphs of user activity
 * The registration log parser was able to demonstrate where users were lost during the registration
-___
 
+___
 1998–1999	Concerto Software / Melita	   (Norcross, GA)
 #### Lab Technician:
 * Hired as a full-time co-op while attending Georgia Tech and later migrated to full-time employee
@@ -84,8 +84,8 @@ Significant Achievements:
 * Authored ATM network testing software, "Aphid," in C++ with MFC
 * This software performed customizable load tests to gauge the performance and reliability of ATM network interface cards
 * Furthermore, it was an essential factor in the final choice of vendor
-___
 
+___
 ## Skills Overview		
 Programming Languages:
 * C, C++, MFC, SQL, Smalltalk, Basic, TI, PHP, Python, VB Script
