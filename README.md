@@ -1,10 +1,11 @@
 ## Patrick Parker	
 "for outstanding Software Development, Testing, and Support"
+
 Email: Patrick_X99 [hotmail.com]
 
 ## Education
 1997–2003	Georgia Tech	(Atlanta, GA)
-Bachelor of Sciences:
+#### Bachelor of Sciences:
 * Computer Science major, Compilers & Interpreters specialization
 * Graduated August 2003
 Significant Achievements:
@@ -15,7 +16,7 @@ Significant Achievements:
 
 ## Work
 2012–2015	Meditech	(Atlanta, GA)	
-Programmer/Developer:
+#### Programmer/Developer:
 * Joined a small, elite programming team for M-AT Homecare Interface
 Significant Achievements:
 * Programmed numerous new interfaces and GUI features/enhancements, including: Patient Scheduling Interface, Scanning & Archiving Interface, and Physician E-Sign for CTI/3rd-Party
@@ -24,7 +25,7 @@ Significant Achievements:
 * Became Coding Standards Group representative for the entire Atlanta office after only 2 years
 
 2006-2011	The Battle for Wesnoth	(wesnoth.org)
-Developer:
+#### Developer:
 * Volunteered as a C++ developer for this open source game
 Significant Achievements:
 * Programmed radical improvements to the GUI and the WML engine
@@ -33,7 +34,7 @@ Significant Achievements:
 * Contributed a total of 27 person-months of code development
 
 2006-2011	Agentek, Inc.	(Alpharetta, GA)
-Support Engineer:
+#### Support Engineer:
 * Hired for Level-2 Support as a full-time employee
 Significant Achievements:
 * Used Python and SQL on a daily basis to investigate issues
@@ -41,14 +42,14 @@ Significant Achievements:
 * Authored a variety of Python tools designed to analyze trace files, upload statistics to a support database, and increase general productivity
 
 2004	John Coryat Systems	   (Memphis, TN)
-Java Consultant:
+#### Java Consultant:
 * Hired as a freelance Java consultant for a 3-D wallpaper project
 Significant Achievements:
 * Successfully decompiled and documented legacy code
 * Analyzed the code structure and recommended modifications
 
 2000–2001	BellSouth.net Inc.	(Atlanta, GA)
-Software Developer / Tester:
+#### Software Developer / Tester:
 * Hired as a full-time intern while attending Georgia Tech
 * Responsible for updates in the legacy registration code
 Significant Achievements:
@@ -61,7 +62,7 @@ Significant Achievements:
 * The registration log parser was able to demonstrate where users were lost during the registration
 
 1998–1999	Concerto Software / Melita	   (Norcross, GA)
-Lab Technician:
+#### Lab Technician:
 * Hired as a full-time co-op while attending Georgia Tech and later migrated to full-time employee
 * Entrusted with security and maintenance of the development labs
 Significant Achievements:
