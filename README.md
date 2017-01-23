@@ -3,6 +3,7 @@
 
 Email: Patrick_X99 [hotmail.com]
 ___
+
 ## Education
 1997–2003	Georgia Tech	(Atlanta, GA)
 #### Bachelor of Sciences:
@@ -15,6 +16,7 @@ Significant Achievements:
 * Senior design project: FalconView Geospatial Modification
 * FalconView is a flight-path planning software available at falconview.org
 ___
+
 ## Work
 2012–2015	Meditech	(Atlanta, GA)	
 #### Programmer/Developer:
@@ -26,6 +28,7 @@ Significant Achievements:
 * Discovered and solved numerous flaws during high-level code reviews with Systems Group
 * Became Coding Standards Group representative for the entire Atlanta office after only 2 years
 ___
+
 2006-2011	The Battle for Wesnoth	(wesnoth.org)
 #### Developer:
 * Volunteered as a C++ developer for this open source game
@@ -36,6 +39,7 @@ Significant Achievements:
 * Committed a total of 651 changes to the source code
 * Contributed a total of 27 person-months of code development
 ___
+
 2006-2011	Agentek, Inc.	(Alpharetta, GA)
 #### Support Engineer:
 * Hired for Level-2 Support as a full-time employee
@@ -45,6 +49,7 @@ Significant Achievements:
 * Proposed and maintained a knowledge base repository/wiki
 * Authored a variety of Python tools designed to analyze trace files, upload statistics to a support database, and increase general productivity
 ___
+
 2004	John Coryat Systems	   (Memphis, TN)
 #### Java Consultant:
 * Hired as a freelance Java consultant for a 3-D wallpaper project
@@ -52,6 +57,7 @@ Significant Achievements:
 * Successfully decompiled and documented legacy code
 * Analyzed the code structure and recommended modifications
 ___
+
 2000–2001	BellSouth.net Inc.	(Atlanta, GA)
 #### Software Developer / Tester:
 * Hired as a full-time intern while attending Georgia Tech
@@ -66,6 +72,7 @@ Significant Achievements:
 * This tool was written in Java and became very popular with management for graphs of user activity
 * The registration log parser was able to demonstrate where users were lost during the registration
 ___
+
 1998–1999	Concerto Software / Melita	   (Norcross, GA)
 #### Lab Technician:
 * Hired as a full-time co-op while attending Georgia Tech and later migrated to full-time employee
@@ -78,6 +85,7 @@ Significant Achievements:
 * This software performed customizable load tests to gauge the performance and reliability of ATM network interface cards
 * Furthermore, it was an essential factor in the final choice of vendor
 ___
+
 ## Skills Overview		
 Programming Languages:
 * C, C++, MFC, SQL, Smalltalk, Basic, TI, PHP, Python, VB Script
