@@ -1,6 +1,6 @@
 -- Select all "Individual" contacts with "Ongoing" cases
 
--- Format: `Contact name`,`Organisation(s)`,`Number of cases`
+-- Format: Contact display name, Employer organisation name, Number (count) of cases
 
 -- Author: Patrick Parker, January 2017
 
@@ -8,8 +8,6 @@
 -- * Don't include "Urgent" cases
 -- * Don't include past/future employment relationships, only current ones
 -- * If multiple current employers exist, show them in a list format
--- * If no current employer exists but organization_name is defined,
---   use that as a fallback value (this is true for Organizations).
 -- * Ignore any data with is_deleted=1 or is_active=0
 -- * Assume NULL is_deleted means Not Deleted (case schema allows NULL)
 
@@ -19,14 +17,12 @@
 --   wrong. See https://github.com/sapientN3T/hello-world/issues/2
 
 
-SELECT con.display_name as `Contact name`,
-  COALESCE(
-    GROUP_CONCAT(
-      DISTINCT emp.display_name
-      ORDER BY emp.sort_name
-      SEPARATOR ', '),
-    con.organization_name) as `Organisation(s)`,
-  COUNT(DISTINCT `case`.id) as `Number of cases`
+SELECT con.display_name as `Contact display name`,
+  GROUP_CONCAT(
+    DISTINCT emp.organization_name
+    ORDER BY emp.sort_name
+    SEPARATOR ', ') as `Employer organisation name(s)`,
+  COUNT(DISTINCT `case`.id) as `Number (count) of cases`
 FROM civicrm_option_group optgrp
 INNER JOIN civicrm_option_value optval
   ON optval.option_group_id = optgrp.id
