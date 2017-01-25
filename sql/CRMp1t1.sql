@@ -1,6 +1,6 @@
 -- Select all "Individual" contacts with "Ongoing" cases
 
--- Format: Contact display name, Employer organisation name, Number (count) of cases
+-- Format: Contact display name, Employer organisation name(s), Number (count) of cases
 
 -- Author: Patrick Parker, January 2017
 
