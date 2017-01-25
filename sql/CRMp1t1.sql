@@ -20,7 +20,6 @@
 SELECT con.display_name as `Contact display name`,
   GROUP_CONCAT(
     DISTINCT emp.organization_name
-    ORDER BY emp.sort_name
     SEPARATOR ', ') as `Employer organisation name(s)`,
   COUNT(DISTINCT `case`.id) as `Number (count) of cases`
 FROM civicrm_option_group optgrp
